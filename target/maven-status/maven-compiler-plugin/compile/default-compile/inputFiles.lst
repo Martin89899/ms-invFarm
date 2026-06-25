@@ -1,8 +1,9 @@
-C:\Users\marti\OneDrive\Escritorio\PawPet\ms-invFarm-spring\src\main\java\com\pawpet\msinvfarm\config\GlobalExceptionHandler.java
-C:\Users\marti\OneDrive\Escritorio\PawPet\ms-invFarm-spring\src\main\java\com\pawpet\msinvfarm\controller\InventoryController.java
-C:\Users\marti\OneDrive\Escritorio\PawPet\ms-invFarm-spring\src\main\java\com\pawpet\msinvfarm\model\Product.java
-C:\Users\marti\OneDrive\Escritorio\PawPet\ms-invFarm-spring\src\main\java\com\pawpet\msinvfarm\model\StockHistory.java
-C:\Users\marti\OneDrive\Escritorio\PawPet\ms-invFarm-spring\src\main\java\com\pawpet\msinvfarm\MsInvFarmApplication.java
-C:\Users\marti\OneDrive\Escritorio\PawPet\ms-invFarm-spring\src\main\java\com\pawpet\msinvfarm\repository\ProductRepository.java
-C:\Users\marti\OneDrive\Escritorio\PawPet\ms-invFarm-spring\src\main\java\com\pawpet\msinvfarm\repository\StockHistoryRepository.java
-C:\Users\marti\OneDrive\Escritorio\PawPet\ms-invFarm-spring\src\main\java\com\pawpet\msinvfarm\service\InventoryService.java
+/home/Itha/Escritorio/ms-auth/ms-invFarm-feature-migracion-inventario/src/main/java/com/pawpet/msinvfarm/MsInvFarmApplication.java
+/home/Itha/Escritorio/ms-auth/ms-invFarm-feature-migracion-inventario/src/main/java/com/pawpet/msinvfarm/config/GlobalExceptionHandler.java
+/home/Itha/Escritorio/ms-auth/ms-invFarm-feature-migracion-inventario/src/main/java/com/pawpet/msinvfarm/config/OpenApiConfig.java
+/home/Itha/Escritorio/ms-auth/ms-invFarm-feature-migracion-inventario/src/main/java/com/pawpet/msinvfarm/controller/InventoryController.java
+/home/Itha/Escritorio/ms-auth/ms-invFarm-feature-migracion-inventario/src/main/java/com/pawpet/msinvfarm/model/Product.java
+/home/Itha/Escritorio/ms-auth/ms-invFarm-feature-migracion-inventario/src/main/java/com/pawpet/msinvfarm/model/StockHistory.java
+/home/Itha/Escritorio/ms-auth/ms-invFarm-feature-migracion-inventario/src/main/java/com/pawpet/msinvfarm/repository/ProductRepository.java
+/home/Itha/Escritorio/ms-auth/ms-invFarm-feature-migracion-inventario/src/main/java/com/pawpet/msinvfarm/repository/StockHistoryRepository.java
+/home/Itha/Escritorio/ms-auth/ms-invFarm-feature-migracion-inventario/src/main/java/com/pawpet/msinvfarm/service/InventoryService.java
